@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Halo semua, saya Akmal Widad Iskandar 👋
+:wave:
 <!--
 **yaelahdaww/yaelahdaww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
