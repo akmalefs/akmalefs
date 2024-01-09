@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Tailwind and Javascript
-- 👨‍💻 Follow my figma community for access my design assets [@apple](https://figma.com/@applepe)
+- 👨‍💻 Follow my figma community for access my design assets [@applepe](https://figma.com/@applepe)
