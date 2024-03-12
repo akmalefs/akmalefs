@@ -2,7 +2,7 @@
 
 - 🔭 I’m working on Creative Agency
 - 🌱 Currently learning Web Development
-- 👨‍💻 Follow my figma community for access my design assets [@applepe](https://figma.com/@applepe)
+- 👨‍💻 Figma for Design Assets [@applepe](https://figma.com/@applepe)
 
 ## About Me 🧏‍♂️
 
