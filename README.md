@@ -11,4 +11,4 @@ to collaborate on projects that blend aesthetics and technology. Let's connect t
 
 ## Some Tools I Use 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma)](https://skillicons.dev)
