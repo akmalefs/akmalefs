@@ -15,4 +15,4 @@ to collaborate on projects that blend aesthetics and technology. Let's connect t
 
 ## UIX and Graphic Design Tools 🎨
 
-[![My Skills](https://skillicons.dev/icons?i=notion,figma,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,figma,ps,ai)](https://skillicons.dev)
