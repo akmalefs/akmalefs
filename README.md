@@ -4,11 +4,6 @@
 - 🌱 Currently in a love hate relationship with frontend
 - 👨‍💻 Figma for Design Assets [@applepe](https://figma.com/@applepe)
 
-## About Me 🧏‍♂️
-
-I'm designer and developer with an interest in merging design aesthetics and code functionality. Combining UI design skills with expertise in HTML, CSS, and JavaScript. Always eager
-to collaborate on projects that blend aesthetics and technology. Let's connect to create exceptional digital experiences!
-
 ## Web Programming 💻
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind)](https://skillicons.dev)
