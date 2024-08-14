@@ -1,4 +1,4 @@
-## Hi, I'm Akmal and I'm burdened with glorious purpose
+## Hi, I'm Akmal and i'm burdened with glorious purpose 🦸🏼‍♂️👨🏼‍💻
 
 <img src="banner.png">
 I'm designer and developer with an interest in merging design aesthetics and code functionality. Combining UI design skills with expertise in HTML, CSS, and JavaScript. Always eager
